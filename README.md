@@ -4,3 +4,5 @@ Initially run with authenticated =0.  This will pair the MI with your Board.  Th
 Main point of this is to get custom text messages to display on a MI 2.
 Does an sms alert as is.  Uncomment alertTest for a sms alert that requires acknowledgement.
 Also will do basic vibratory alerts with no text.
+
+This also works on the Amazfit Cor.
